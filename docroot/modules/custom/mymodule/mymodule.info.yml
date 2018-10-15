@@ -1,0 +1,6 @@
+name: mymodule
+description: testing lighting
+package: Genpack
+core: 8.x
+type: module
+
